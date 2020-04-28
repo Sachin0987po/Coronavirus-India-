@@ -7,5 +7,5 @@
 ### Dependencies 
 <p> Just like most of the Data Analysis project this one relies on Pandas and Matplotlib. </p>
 
-### Daata Source 
+### Data Source 
 <p> https://www.covid19india.org/ </p>
