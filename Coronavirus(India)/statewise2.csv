@@ -1,0 +1,39 @@
+active,confirmed,deaths,deltaconfirmed,deltadeaths,deltarecovered,lastupdatedtime,recovered,state,statecode,position
+21375,29451,939,1561,58,614,28/04/2020 03:01:55,7137,Total,TT,All
+6939,8590,369,522,27,94,28/04/2020 03:01:56,1282,Maharashtra,MH,West
+2992,3548,162,247,11,81,27/04/2020 20:51:55,394,Gujarat,GJ,west
+2177,3108,54,190,0,0,27/04/2020 22:21:59,877,Delhi,DL,north
+1468,2262,50,77,9,115,27/04/2020 21:54:55,744,Rajasthan,RJ,west
+1698,2165,110,75,7,55,27/04/2020 21:21:56,357,Madhya Pradesh,MP,center
+812,1937,24,52,0,81,27/04/2020 18:21:56,1101,Tamil Nadu,TN,south
+1556,1986,31,113,1,72,27/04/2020 21:21:57,399,Uttar Pradesh,UP,north
+911,1177,31,80,0,4,27/04/2020 11:21:56,235,Andhra Pradesh,AP,south
+646,1003,25,2,0,16,27/04/2020 20:32:58,332,Telangana,TG,south
+524,649,20,38,0,0,26/04/2020 09:47:38,105,West Bengal,WB,east
+375,546,7,23,1,27,27/04/2020 19:41:56,164,Jammu and Kashmir,JK,north
+299,512,20,9,1,11,27/04/2020 23:01:56,193,Karnataka,KA,south
+123,482,4,13,0,13,26/04/2020 17:57:38,355,Kerala,KL,south
+213,330,19,8,1,14,27/04/2020 22:02:20,98,Punjab,PB,north
+85,301,3,5,0,14,27/04/2020 19:21:56,213,Haryana,HR,north
+288,346,2,69,0,0,27/04/2020 23:32:56,56,Bihar,BR,east
+73,111,1,8,0,2,27/04/2020 21:41:57,37,Odisha,OR,east
+83,103,3,21,0,4,27/04/2020 22:32:57,17,Jharkhand,JH,east
+18,51,0,0,0,7,27/04/2020 18:21:57,33,Uttarakhand,UT,north
+13,40,2,0,0,3,28/04/2020 01:11:56,25,Himachal Pradesh,HP,north
+5,37,0,0,0,0,25/04/2020 09:37:38,32,Chhattisgarh,CT,center
+8,36,1,0,0,0,26/04/2020 17:32:41,27,Assam,AS,east
+28,45,0,9,0,0,27/04/2020 20:21:56,17,Chandigarh,CH,north
+22,33,0,0,0,0,25/04/2020 20:02:39,11,Andaman and Nicobar Islands,AN,other
+4,20,0,0,0,0,25/04/2020 17:32:38,16,Ladakh,LA,north
+11,12,1,0,0,0,18/04/2020 12:38:07,0,Meghalaya,ML,east
+3,8,0,0,0,1,27/04/2020 23:21:56,5,Puducherry,PY,other
+0,7,0,0,0,0,19/04/2020 17:04:07,7,Goa,GA,west
+0,2,0,0,0,0,20/04/2020 10:04:08,2,Manipur,MN,east
+0,2,0,0,0,0,23/04/2020 20:47:41,2,Tripura,TR,east
+1,1,0,0,0,0,26/03/2020 07:19:29,0,Mizoram,MZ,east
+0,1,0,0,0,0,16/04/2020 19:33:11,1,Arunachal Pradesh,AR,east
+0,0,0,0,0,0,20/04/2020 08:45:07,0,Nagaland,NL,east
+0,0,0,0,0,0,17/04/2020 15:03:07,0,Dadra and Nagar Haveli,DN,west
+0,0,0,0,0,0,26/03/2020 07:19:29,0,Daman and Diu,DD,west
+0,0,0,0,0,0,26/03/2020 07:19:29,0,Lakshadweep,LD,other
+0,0,0,0,0,0,26/03/2020 07:19:29,0,Sikkim,SK,east
